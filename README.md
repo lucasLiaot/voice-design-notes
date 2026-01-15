@@ -1,4 +1,3 @@
-md
 # Voice Design Notes
 
 Personal research notes and creative reflections on voice design, speech synthesis and audio storytelling.
